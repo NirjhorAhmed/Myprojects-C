@@ -1,4 +1,4 @@
-📘 README: C Programs by [Your Name]
+📘 README: C Programs
 👋 About
 This repository contains a collection of beginner-to-intermediate level C programs that explore important concepts such as:
 
