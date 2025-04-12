@@ -1,5 +1,3 @@
-Sure! Here's a sample README for your C programs, especially tailored for the types of programs you've been working on — like file handling, image backups, scoring logic, etc. You can copy this into a README.md file if you're uploading your code to GitHub.
-
 📘 README: C Programs by [Your Name]
 👋 About
 This repository contains a collection of beginner-to-intermediate level C programs that explore important concepts such as:
